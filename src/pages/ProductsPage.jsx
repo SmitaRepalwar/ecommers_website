@@ -49,7 +49,6 @@ export default function ProductsPage() {
   return (
     <>
       <Header />
-
       <div className="flex flex-wrap justify-between items-center mt-6 px-4">
         {/* Sort Dropdown */}
         <select
